@@ -326,7 +326,7 @@ $diffColors = ['Mudah' => 'bg-emerald-100 text-emerald-700', 'Sedang' => 'bg-amb
     <footer class="bg-white border-t border-orange-100 mt-16 py-8">
         <div class="max-w-7xl mx-auto px-4 text-center">
             <div class="text-2xl mb-2">🍳</div>
-            <p class="text-gray-500 text-sm">© 2025 DapurKita · Resep Masakan Nusantara</p>
+            <p class="text-gray-500 text-sm">©DapurKita · Resep Masakan Nusantara</p>
         </div>
     </footer>
 
